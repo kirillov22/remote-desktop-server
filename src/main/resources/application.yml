@@ -1,3 +1,5 @@
 micronaut:
   application:
     name: remoteDesktopServer
+  server:
+    port: 9998
